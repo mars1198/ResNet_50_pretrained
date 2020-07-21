@@ -1,0 +1,29 @@
+Support Vector Machine starting ...
+0.868486 seconds
+CNN-SVM Accuracy: 68.4%
+Extra Trees Classifier starting ...
+0.072747 seconds
+CNN-ET Accuracy: 55.3%
+Random Forest Classifier starting ...
+0.120192 seconds
+CNN-RF Accuracy: 44.7%
+K-Nearest Neighbours Classifier starting ...
+0.116978 seconds
+CNN-KNN Accuracy: 68.4%
+Multi-layer Perceptron Classifier starting ...
+2.969628 seconds
+CNN-MLP Accuracy: 71.1%
+Gaussian Naive Bayes Classifier starting ...
+0.023174 seconds
+CNN-GNB Accuracy: 57.9%
+Linear Discriminant Analysis Classifier starting ...
+/home/mars1198/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:388: UserWarning: Variables are collinear.
+  warnings.warn("Variables are collinear.")
+0.352332 seconds
+CNN-LDA Accuracy: 71.1%
+Quadratic Discriminant Analysis Classifier starting ...
+/home/mars1198/anaconda3/lib/python3.7/site-packages/sklearn/discriminant_analysis.py:693: UserWarning: Variables are collinear
+  warnings.warn("Variables are collinear")
+0.118997 seconds
+CNN-QDA Accuracy: 26.3%
+(base) mars1198@mars1198-U
